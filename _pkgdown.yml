@@ -1,0 +1,47 @@
+url: https://byuzbasi.github.io/BernoulliRuns/
+template:
+  bootstrap: 5
+  math-rendering: katex
+  bslib:
+    primary: '#007D75'
+    bg: '#FCFCF9'
+    fg: '#183847'
+    base_font: 'sans-serif'
+    heading_font: 'sans-serif'
+    code_font: 'monospace'
+home:
+  title: BernoulliRuns
+navbar:
+  structure:
+    left: [intro, articles, reference, news]
+    right: [search, author, github]
+  components:
+    intro:
+      text: Get started
+      href: articles/exact-run-count-distribution.html
+    author:
+      text: Research hub
+      href: https://byuzbasi.github.io/en/software/
+    github:
+      icon: fab fa-github
+      href: https://github.com/byuzbasi/BernoulliRuns
+      aria-label: GitHub repository
+news:
+  cran_dates: false
+articles:
+  - title: Guides
+    navbar: ~
+    contents:
+      - exact-run-count-distribution
+      - data-and-reproduction
+reference:
+  - title: Exact run-count workflow
+    contents:
+      - count_runs
+      - runs_distribution
+      - runs_mean
+      - runs_tail
+      - print.runs_exact_tail
+  - title: Package
+    contents:
+      - BernoulliRuns-package

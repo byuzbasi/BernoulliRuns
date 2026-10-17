@@ -1,4 +1,10 @@
-# BernoulliRuns
+# BernoulliRuns <img src="man/figures/logo.svg" align="right" width="120" alt="BernoulliRuns alternating run blocks logo" />
+
+[Documentation](https://byuzbasi.github.io/BernoulliRuns/) · [Get started](https://byuzbasi.github.io/BernoulliRuns/articles/exact-run-count-distribution.html) · [Reference](https://byuzbasi.github.io/BernoulliRuns/reference/index.html)
+
+![BernoulliRuns: from an ordered binary sequence to its exact run-count distribution](man/figures/banner.svg)
+
+*Conceptual sequence illustration; colours distinguish zero and one, not fitted probabilities.*
 
 [![R-CMD-check](https://github.com/byuzbasi/BernoulliRuns/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/byuzbasi/BernoulliRuns/actions/workflows/R-CMD-check.yaml)
 

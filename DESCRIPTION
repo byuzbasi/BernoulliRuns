@@ -17,7 +17,8 @@ Description: Computes the exact probability mass function, cumulative
 License: GPL (>= 3)
 Encoding: UTF-8
 Language: en-US
-URL: https://github.com/byuzbasi/BernoulliRuns
+URL: https://byuzbasi.github.io/BernoulliRuns/,
+    https://github.com/byuzbasi/BernoulliRuns
 BugReports: https://github.com/byuzbasi/BernoulliRuns/issues
 Depends: 
     R (>= 4.1.0)

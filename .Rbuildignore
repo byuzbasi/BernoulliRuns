@@ -3,3 +3,9 @@
 ^\.Rproj\.user$
 ^\.github$
 ^\.gitignore$
+^_pkgdown[.]yml$
+^pkgdown$
+^docs$
+^CITATION[.]cff$
+^CONTRIBUTING[.]md$
+^[.]github$
